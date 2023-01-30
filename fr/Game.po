@@ -18,7 +18,7 @@ msgstr ""
 #: /Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
 msgctxt ",005986EF48789316B83C53885CBD1FB8"
 msgid "清洗"
-msgstr "nettoyage"
+msgstr "Nettoyage"
 
 #. Key:	00986F3D49F50B3B8F6203A93FD5D846
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.Text
