@@ -11673,7 +11673,7 @@ msgstr "Contrôle du bâtiment"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,kd"
 msgid "矿洞"
-msgstr "Le mien"
+msgstr "Mine"
 
 #. Key:	KG
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11715,7 +11715,7 @@ msgstr "J'ai trop chaud !"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LDBH"
 msgid "领地保护"
-msgstr "protection du territoire"
+msgstr "Protection du territoire"
 
 #. Key:	LDQEnd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11736,14 +11736,14 @@ msgstr "Protégez vos bâtiments contre la démolition par d'autres joueurs en u
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LDWS"
 msgid "未受保护"
-msgstr "non protégé"
+msgstr "Non protégé"
 
 #. Key:	Level
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Level"
 msgid "等级"
-msgstr " niveau"
+msgstr "Niveau"
 
 #. Key:	LightTip
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11785,7 +11785,7 @@ msgstr "Verrouillé"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,LXXH"
 msgid "练习消耗："
-msgstr "Required Materials:"
+msgstr "Matériaux nécessaires:"
 
 #. Key:	Main
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11855,7 +11855,7 @@ msgstr "Pas d'objet correspondant"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,MYJZQX"
 msgid "无建筑权限"
-msgstr "pas de permis de construire"
+msgstr "Pas de permis de construire"
 
 #. Key:	MZDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12282,21 +12282,21 @@ msgstr "zone:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Release"
 msgid "释放 "
-msgstr "libéré "
+msgstr "Libéré "
 
 #. Key:	reload
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,reload"
 msgid "重载 "
-msgstr "surcharge"
+msgstr "Surcharge"
 
 #. Key:	RESMODE
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,RESMODE"
 msgid "超分辨率"
-msgstr "super résolution"
+msgstr "Super résolution"
 
 #. Key:	rizhao
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12436,14 +12436,14 @@ msgstr "Printemps"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SQ"
 msgid "授权"
-msgstr "autorisé"
+msgstr "Autorisé"
 
 #. Key:	SQ01
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SQ01"
 msgid "授权"
-msgstr "autorisé"
+msgstr "Autorisé"
 
 #. Key:	SR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12492,7 +12492,7 @@ msgstr "Puis-je faire quelque chose pour vous aider ?"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SS07"
 msgid "Hi,这个太难了从简单的来！"
-msgstr "Salut, celui-ci est trop difficile pour être facile !"
+msgstr "Salut, c'est trop difficile, commence par plus simple !"
 
 #. Key:	SS08
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12625,7 +12625,7 @@ msgstr "Besoin de changer de mode serveur de jeu et de redémarrer le jeu, confi
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,sx"
 msgid "刷新"
-msgstr "rafraîchir"
+msgstr "Rafraîchir"
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -12660,14 +12660,14 @@ msgstr "Quitter"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TCXX"
 msgid "踢出"
-msgstr "expulser"
+msgstr "Expulser"
 
 #. Key:	TJDHMD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,TJDHMD"
 msgid "添加到黑名单"
-msgstr "ajouter à la liste noire"
+msgstr "Ajouter à la liste noire"
 
 #. Key:	TLD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13010,14 +13010,14 @@ msgstr "Sécher prend 200 secondes"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,YC"
 msgid "移除"
-msgstr "retirer"
+msgstr "Retirer"
 
 #. Key:	ZBJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZBJ"
 msgid "在织布机制作"
-msgstr "Confectionné au métier à tisser"
+msgstr "Fabriqué sur un métier à tisser"
 
 #. Key:	ZD
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13031,7 +13031,7 @@ msgstr "Tourner"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ZISHA"
 msgid "自杀"
-msgstr "suicide"
+msgstr "Suicide"
 
 #. Key:	ZS
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -13108,7 +13108,7 @@ msgstr "Dégat"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,DZL"
 msgid "断肢"
-msgstr "mutilation"
+msgstr "Mutilation"
 
 #. Key:	FY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13150,7 +13150,7 @@ msgstr "Assommer"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JIEJIU"
 msgid "解救"
-msgstr "sauvetage"
+msgstr "Sauvetage"
 
 #. Key:	KHX
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13178,7 +13178,7 @@ msgstr "Résistance à la chaleur"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KTDetail"
 msgid "病毒抗体\r\n抗体为0就会死亡"
-msgstr "Anticorps viral\r\nSi l'anticorps passe à 0, vous mourez"
+msgstr "Anticorps viraux\r\nSi les anticorps passent à 0, vous mourez"
 
 #. Key:	MAIKE
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -13241,14 +13241,14 @@ msgstr "Rapidité"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,SSHA"
 msgid "萨沙"
-msgstr "sacha"
+msgstr "Sacha"
 
 #. Key:	Stamina
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,Stamina"
 msgid "耐力"
-msgstr "endurance"
+msgstr "Endurance"
 
 #. Key:	TBFY
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
